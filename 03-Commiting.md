@@ -1,5 +1,18 @@
 # Commiting 
 
+## Rewriting the most recent commit message
+
+```
+git commit --ammend
+```
+edit the commit message and
+```
+ctrl+0
+```
+
+to write out changes
+
+
 ## Adding more changes to my last commit
 
 ### Without Changing It's Message
