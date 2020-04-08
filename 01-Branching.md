@@ -37,6 +37,5 @@ git branch -d hotfix
 
 
 Source:
-```
+
 [gi-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-```

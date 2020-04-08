@@ -30,8 +30,15 @@ git log --since=yesterday
 git log --oneline
 ```
 Output: 
-...
+
 fba63d5 add profile nav component
 f2115fc profile page layout
 34d4994 add Profile route
-:
+
+
+
+## Reverse Order
+```
+git log --reverse
+```
+Note that .e.g. `git log -10 --reverse` would get 10 **last** commits then reverse list
